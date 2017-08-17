@@ -5,10 +5,7 @@
  */
 package nuevo;
 
-/**
- *
- * @author Marvella Ortega
- */
+
 public class Nuevo {
 
     /**
@@ -18,10 +15,7 @@ public class Nuevo {
         Calculadora calculadora = new Calculadora();
 	calculadora.setVisible(true);
         int n=0;
-	    /**
-	    *@deprecated La variable es obsoleta
-	    */
-        System.out.println("Hola mundo");
+	  
     }
     
 }
